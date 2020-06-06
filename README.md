@@ -1,2 +1,2 @@
-# Protocal-Ephys-Example-folder
+# Protocol-Ephys-Example-folder
 This is a example for testing. 
